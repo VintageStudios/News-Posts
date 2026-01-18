@@ -7,15 +7,15 @@ body { background-color:#CECECE; padding:0;  margin: 0; }
 .textstyle1 { text-align:center; }
 #container_e4bf9ac { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:89px; background-color:#0000FF;  }
 #container_e4bf9ac_padding { margin: 10px; display: block;  }
-.textstyle2 { text-align:left; }
-#container_30174d59 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:93px; background:none;  }
-#container_30174d59_padding { margin: 10px; display: block;  }
-#img_382cbccc { vertical-align: bottom; position:relative; display: inline-block; width:10%; background:none; height:auto;  }
 #heading_49364a9 { vertical-align: bottom; position:relative; display: inline-block; width:683px; height:45px; background:none; font-size:26pt; font-family:'MS Serif', 'New York', serif; color:#FFFFFF; text-align:center;  }
-.textstyle3 { text-align:right; }
+.textstyle2 { text-align:left; }
+#container_30174d59 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:37px; background:none;  }
+#container_30174d59_padding { margin: 10px; display: block;  }
+.textstyle3 { font-size:13pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#FFFFFF;  }
+.textstyle4 { text-align:right; }
 #heading_7d1752af { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left;  }
 #container_365f079f { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#CECECE;  }
 #container_365f079f_padding { margin: 10px; display: block;  }
 #container_798910f0 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#FFFFFF;  }
 #container_798910f0_padding { margin: 10px; display: block;  }
-.textstyle4 { font-size:12pt; font-family:'MS Serif', 'New York', serif; color:#000000; font-weight:bold;  }
+.textstyle5 { font-size:12pt; font-family:'MS Serif', 'New York', serif; color:#000000; font-weight:bold;  }
