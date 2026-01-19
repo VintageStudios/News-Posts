@@ -23,4 +23,7 @@ body { background-color:#AFAFAF; padding:0;  margin: 0; }
 #container_80c8255_padding { margin: 10px; display: block;  }
 #container_64666712 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#FFFFFF;  }
 #container_64666712_padding { margin: 10px; display: block;  }
-#jscript_62235907 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:50%; height:100px; background-color:#E5E5E5; border: 1px solid #A0A0A0;  }
+#container_50a19158 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:49%; min-height:63px; background-color:#FFFFFF; border: 1px solid #404040;  }
+#container_50a19158_padding { margin: 10px; display: block;  }
+#heading_12143bf9 { vertical-align: bottom; position:relative; display: inline-block; width:694px; height:42px; background:none; font-size:24pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left;  }
+#html_528dfb01 { vertical-align: bottom; position:relative; display: inline-block; width:50%; height:130px; background:none;  }
