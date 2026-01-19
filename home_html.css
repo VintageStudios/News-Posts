@@ -37,6 +37,8 @@ body { background-color:#AFAFAF; padding:0;  margin: 0; }
 #container_295c03a { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none; border: 1px solid #404040;  }
 #container_295c03a_padding { margin: 10px; display: block;  }
 .textstyle6 { font-size:12pt; font-family:Baskerville, 'Baskerville Old Face', Garamond, 'Times New Roman', serif; color:#000000; font-style:italic; font-weight:bold;  }
+#container_75dae34d { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:10px; background:none;  }
+#container_75dae34d_padding { margin: 10px; display: block;  }
 #container_33bdf33c { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:500px; background:none; border: 1px solid #404040;  }
 #container_33bdf33c_padding { margin: 10px; display: block;  }
 #container_d695c69 { vertical-align: top; position:relative; display: inline-block; width:10%; min-height:47px; background:none;  }
